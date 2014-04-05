@@ -70,4 +70,4 @@ Version-Overrides:
        - components:
          - go-1.0
          - web_proxy
-Source-Url: https://github.com/smarterclayton/openshift-go-cart/archive/master.zip
+Source-Url: https://github.com/givenjazz/openshift-go-cart/archive/master.zip
